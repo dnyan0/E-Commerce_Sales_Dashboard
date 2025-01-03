@@ -62,5 +62,5 @@ The Madhav E-Commerce Sales Dashboard provides actionable insights that drive bu
 
 **Snapshot of Dashboard (Power Bl Service)**:  
 
-![Uploading Madhav Sales.png…]()
+[![Uploading Madhav Sales.png…]()](https://github.com/dnyan0/E-Commerce_Sales_Dashboard/issues/1#issue-2767376518)
 
